@@ -1,0 +1,30 @@
+div {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+label {
+  background-color: rgba(106, 17, 17, 0.664);
+  font-weight: bold;
+  margin-right: 10px;
+  color: darkgray;
+  font-family: Arial, sans-serif;
+  padding: 1rem;
+  border-radius: 2rem;
+}
+
+select {
+  margin: 2rem;
+  padding: 1rem;
+
+  background-color: darkgray;
+  color: white;
+  font-weight: bold;
+  border-radius: 2rem;
+  font-family: Arial, sans-serif;
+  cursor: pointer;
+  text-decoration: none;
+  ; 
+  
+}
+
